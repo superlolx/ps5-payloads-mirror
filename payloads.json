@@ -20,5 +20,16 @@
     "last_update": "2026-10-01",
     "version": "1.4.8",
     "category": "Utilities & Tools"
+  },
+  {
+    "name": "Pegasus DL",
+    "filename": "pegasus_dl.elf",
+    "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.11.0/pegasus_dl.elf",
+    "source": "https://github.com/pegasus-ps5/pegasus-dl/releases",
+    "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.11.0/pegasus_dl.elf",
+    "description": "PS5 download manager with a web UI on port 6970. Requires a jailbroken, payload-capable PS5 and an ELF loader; no separate FTP server or helper payload is required.",
+    "last_update": "2026-10-09",
+    "version": "v1.11.0",
+    "category": "Utilities & Tools"
   }
 ]
