@@ -1,0 +1,24 @@
+[
+  {
+    "name": "LegacyJB",
+    "filename": "LegacyJB.elf",
+    "url": "https://github.com/Phoenixx1202/LegacyJB/releases/download/1.2.1/LegacyJB.elf",
+    "source": "https://github.com/Phoenixx1202/LegacyJB/releases",
+    "source_direct": "https://github.com/Phoenixx1202/LegacyJB/releases/download/1.2.1/LegacyJB.elf",
+    "description": "Legacy jailbreak payload for PS5; release 1.2.1 adds support for firmware versions up to 13.60.",
+    "last_update": "2026-09-29",
+    "version": "1.2.1",
+    "category": "System & Jailbreak"
+  },
+  {
+    "name": "Spectrum Library 1.4.8 ELF",
+    "filename": "SpectrumLibrary_1.4.8.elf",
+    "url": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.8/SpectrumLibrary_1.4.8.elf",
+    "source": "https://github.com/Phoenixx1202/Spectrum-Library/releases",
+    "source_direct": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.8/SpectrumLibrary_1.4.8.elf",
+    "description": "PS5 homebrew library; release 1.4.8 adds a new layout, bug fixes, internal DPI support for firmware 13.60, and improved download speed.",
+    "last_update": "2026-10-01",
+    "version": "1.4.8",
+    "category": "Utilities & Tools"
+  }
+]
