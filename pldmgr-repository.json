@@ -1,0 +1,29 @@
+{
+  "name": "Gabriel's PS5 Payloads",
+  "payloads": [
+    {
+      "name": "LegacyJB",
+      "filename": "LegacyJB.elf",
+      "url": "https://github.com/Phoenixx1202/LegacyJB/releases/download/1.2.1/LegacyJB.elf",
+      "description": "PS5 jailbreak payload. Spectrum Library's Homebrew feature requires LegacyJB or etaHEN with Jailbreak Legacy enabled.",
+      "version": "1.2.1",
+      "category": "System & Jailbreak"
+    },
+    {
+      "name": "Spectrum Library",
+      "filename": "SpectrumLibrary_1.4.8.elf",
+      "url": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.8/SpectrumLibrary_1.4.8.elf",
+      "description": "Native PS5 content library. Its Homebrew feature requires LegacyJB or etaHEN with Jailbreak Legacy enabled.",
+      "version": "1.4.8",
+      "category": "Utilities & Tools"
+    },
+    {
+      "name": "Pegasus DL",
+      "filename": "pegasus_dl.elf",
+      "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.11.0/pegasus_dl.elf",
+      "description": "PS5 download manager. Requires a jailbroken, payload-capable PS5 and an ELF loader. Open its web UI from the same local network at http://<PS5-IP>:6970/. No separate FTP server or helper payload is required.",
+      "version": "v1.11.0",
+      "category": "Utilities & Tools"
+    }
+  ]
+}
